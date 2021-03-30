@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(175): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(229): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(295): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\sarah\source\repos\a2-cps511\a2-cps511\main.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  A2-CPS511.vcxproj -> C:\Users\sarah\source\repos\A2-CPS511\Debug\A2-CPS511.exe
